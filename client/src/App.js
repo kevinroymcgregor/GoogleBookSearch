@@ -5,10 +5,8 @@ import Nav from './components/navbar'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Nav />
-      </header>
+    <div>
+      <Nav />
     </div>
   );
 }
